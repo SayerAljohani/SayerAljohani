@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SayerAljohani
 - 👀 I’m interested in web application and mobile development 
-- 🌱 I’m currently working on best pricatice of using Design Paterns  
+- 🌱 I’m currently working on best practice of using Design Patterns 
 - 💞️ I’m looking to collaborate on short/long term development projects, 
 - 📫 How to reach me on telgram (@probelmSolver_PS) or Twitter (@sayeraljohani)
 
